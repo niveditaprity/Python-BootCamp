@@ -3,6 +3,7 @@
 ## Roadmap
 
  ```diff
+ 
  - print function
  - Escape Sequences
  - comments
@@ -45,10 +46,9 @@
  - Python Sets
  - Python Tuples
  - Python Dictionaries
-
-  
- 
- 
- 
+ - Python Arrays
+ - Python Functions
+ - Python Scope
+ - Python Iterators
  
  ```
