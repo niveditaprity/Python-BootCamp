@@ -2,10 +2,10 @@
 
 ## Roadmap
 
- ```diff
+ ```
  
- - print function
- - Escape Sequences
+ ### print function
+ Escape Sequences
  - comments
  - variable
  - User Input
@@ -50,5 +50,6 @@
  - Python Functions
  - Python Scope
  - Python Iterators
+ 
  
  ```
