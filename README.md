@@ -10,6 +10,14 @@
  - variable
  - User Input
  - Data Type
+ - Python Operators
+    Arithmetic operators
+    Assignment operators
+    Comparison operators
+    Logical operators
+    Identity operators
+    Membership operators
+    Bitwise operators 
  - Python Numbers
  - Python casting
  - Python Strings
@@ -19,15 +27,7 @@
  - String Slicing
  - String methods
  - Strings are immutable 
- - Python Booleans
- - Python Operators
-    Arithmetic operators
-    Assignment operators
-    Comparison operators
-    Logical operators
-    Identity operators
-    Membership operators
-    Bitwise operators  
+ - Python Booleans 
   - Python Conditions and If statements
   - Python Loops
       Python has two primitive loop commands:
