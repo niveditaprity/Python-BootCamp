@@ -1,2 +1,0 @@
-rohit kumar
-mit muzaffarpur
