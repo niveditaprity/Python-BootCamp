@@ -1,5 +1,5 @@
- Lily
- 19EC16
- MIT,Muzaffarpur
- Singing,Playing Badminton
- basics of C/C++
+ Name-- Lily
+ Roll--19EC16
+ College--MIT,Muzaffarpur
+ Hobbies--Singing,Playing Badminton
+ Skills--Basics of C/C++
