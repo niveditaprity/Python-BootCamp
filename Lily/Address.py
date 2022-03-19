@@ -1,1 +1,1 @@
-print("Address-Purnea,Bihar,India")
+print("Address-\nPurnea\nBihar\nIndia")
