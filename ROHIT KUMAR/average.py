@@ -1,0 +1,8 @@
+a=int(input("enter first number: "))
+b=int(input("enter second number: "))
+c=int(input("enter third number: "))
+d=int(input("enter fourth number: "))
+total=(a+b+c+d)
+average=(total/4)
+print(total)
+print(average)
