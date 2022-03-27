@@ -77,5 +77,6 @@
  20. Write a program in Python to calculate area of an equilateral triangle
  
   ## Week2 Practice Problem 👩‍💻 
-  [gfg problem](https://practice.geeksforgeeks.org/problems/if-loop-python/1/?track=python-module-2&batchId=119)
+  [gfg problem 1](https://practice.geeksforgeeks.org/problems/if-loop-python/1/?track=python-module-2&batchId=119)
+  [gfg problem 2](https://practice.geeksforgeeks.org/problems/mark-even-and-odd/1/?track=python-module-2&batchId=119)
  
