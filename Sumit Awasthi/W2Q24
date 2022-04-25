@@ -1,0 +1,7 @@
+s1, s2, s3 = map(int,input("Enter space separated sides of triangle: ").split())
+if s1==s2==s3:
+    print("Equilateral triangle")
+elif s1 == s2!=s3 or s1 == s3!=s2 or s3 == s2!=s1:
+    print("Isosceles triangle")
+elif s1!=s2!=s3:
+    print("Scalene triangle")
